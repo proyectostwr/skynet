@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROYECTO_2_DABD_1249321_SKYNET_WAREHOUSE", "PROYECTO_2_DABD_1249321_SKYNET_WAREHOUSE.csproj", "{8253C7BD-6019-4372-82A8-76B67A935EB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8253C7BD-6019-4372-82A8-76B67A935EB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8253C7BD-6019-4372-82A8-76B67A935EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8253C7BD-6019-4372-82A8-76B67A935EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8253C7BD-6019-4372-82A8-76B67A935EB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58CCEFA9-6E8F-4B14-9E9D-875084E9D613}
+	EndGlobalSection
+EndGlobal
